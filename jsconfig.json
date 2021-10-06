@@ -1,0 +1,10 @@
+{
+  "compilerOptions" : {
+    "baseUrl": "./src",
+    "paths" : {
+      "div" : ["./div"],
+      "storejs" : ["./store"],
+      "mouse" : ["./mouse"] 
+    }
+  }
+}
