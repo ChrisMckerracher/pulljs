@@ -1,5 +1,6 @@
-import registerActiveDiv from './register';
+import { registerActiveDiv, deregisterActiveDiv } from './register';
 
 export {
-    registerActiveDiv
+    registerActiveDiv,
+    deregisterActiveDiv
 }

@@ -1,3 +1,4 @@
+//todo: rename to MouseSpaceTime
 class MouseSpaceTimeEvent {
     constructor(x, y, timeInMillis) {
         this.x = x;
