@@ -18,7 +18,6 @@ class Store {
         for (let key of keys) {
             this.#mapping.delete(key);
         }
-
     }
 }
 
